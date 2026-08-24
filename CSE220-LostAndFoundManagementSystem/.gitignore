@@ -1,0 +1,12 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Local editor files
+.vscode/
+.idea/
