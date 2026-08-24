@@ -33,7 +33,7 @@ Older versions must remain in their version folders. Do not overwrite an approve
 | Functional Requirements | DOC-01-FR | V-1.0 | Kushal Shrestha | Suraj Kumar Gupta | `/requirements/V-1.0/functional-requirements.md` | Under Review | 2026-08-24 |
 | Non-Functional Requirements | DOC-01-NFR | V-1.0 | Suraj Kumar Gupta | Manoj Karki | `/requirements/V-1.0/non-functional-requirements.md` | Under Review | 2026-08-24 |
 | Stakeholder Analysis | DOC-01-SA | V-1.0 | Manoj Karki | Kushal Shrestha | `/requirements/V-1.0/stakeholder-analysis.md` | Under Review | 2026-08-24 |
-| Requirement Gathering Techniques | DOC-01-RGT | V-1.0 | Suraj Kumar Gupta | Kushal Shrestha | `/requirements/V-1.0/requirement-gathering-techniques.md` | Draft - completion required | 2026-08-24 |
+| Requirement Gathering Techniques | DOC-01-RGT | V-1.1 | Suraj Kumar Gupta | Kushal Shrestha | `/requirements/V-1.1/requirement-gathering-techniques.md` | Under Review | 2026-08-24 |
 | UML Design Specification | DOC-02-DSGN | V-1.0 | Manoj Karki | Kushal Shrestha | `/design/V-1.0/README.md` | Under Review | 2026-08-24 |
 | Use Case Diagram | DOC-02-UC | V-1.0 | Manoj Karki | Suraj Kumar Gupta | `/design/V-1.0/use-case-diagram.png` | Under Review | 2026-08-24 |
 | Class Diagram | DOC-02-CD | V-1.0 | Kushal Shrestha | Manoj Karki | `/design/V-1.0/class-diagram.png` | Under Review | 2026-08-24 |
@@ -44,7 +44,7 @@ Older versions must remain in their version folders. Do not overwrite an approve
 | Product Backlog | DOC-04-PB | V-1.0 | Kushal Shrestha | Suraj Kumar Gupta | `/project-management/product-backlog.xlsx` | Under Review | 2026-08-24 |
 | Sprint 1 Planning & Execution | DOC-05-SP1 | V-1.0 | Kushal Shrestha | Suraj Kumar Gupta | `/project-management/sprint1-tasks.xlsx` | Under Review | 2026-08-24 |
 | Sprint 2 Planning & Execution | DOC-05-SP2 | V-1.0 | Suraj Kumar Gupta | Manoj Karki | `/project-management/sprint2-tasks.xlsx` | Under Review | 2026-08-24 |
-| Gantt Chart | DOC-06-GC | V-1.0 | Kushal Shrestha | Team | `/project-management/gantt-chart.jpeg` | Under Review | 2026-08-24 |
+| Gantt Chart | DOC-06-GC | V-1.1 | Kushal Shrestha | Suraj Kumar Gupta | `/project-management/gantt/V-1.1/gantt-chart.jpeg` | Under Review | 2026-08-24 |
 | Trello Project Management Evidence | DOC-07-TRELLO | V-1.0 | Kushal Shrestha | Team | `/project-management/sprint*-trello-screenshots/` | Under Review | 2026-08-24 |
 | GitHub Repository Documentation | DOC-08-GH | V-1.0 | Kushal Shrestha | Team | `/README.md` and `/GITHUB_SETUP_GUIDE.md` | Under Review | 2026-08-24 |
 
@@ -62,6 +62,8 @@ Older versions must remain in their version folders. Do not overwrite an approve
 | DOC-05-SP2 | V-1.0 | 2026-08-24 | Initial Sprint 2 planning/execution spreadsheet | Suraj Kumar Gupta | Manoj Karki | `[add after GitHub upload]` |
 | DOC-06-GC | V-1.0 | 2026-08-24 | Initial Gantt chart from project report | Kushal Shrestha | Team | `[add after GitHub upload]` |
 | DOC-08-GH | V-1.0 | 2026-08-24 | Initial GitHub repository structure and workflow guide | Kushal Shrestha | Team | `[add after GitHub upload]` |
+| DOC-01-RGT | V-1.1 | 2026-08-24 | Completed and clarified requirement gathering techniques | Suraj Kumar Gupta | Kushal Shrestha | PR #3 |
+| DOC-06-GC | V-1.1 | 2026-08-24 | Corrected Gantt Chart user story IDs and sprint allocation | Kushal Shrestha | Suraj Kumar Gupta | PR #4 |
 
 ## 5. New Revision Entry Template
 
